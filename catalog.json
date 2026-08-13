@@ -1,0 +1,28 @@
+{
+  "metas": [
+    {
+      "id": "tt0087803",
+      "type": "movie",
+      "name": "1984",
+      "poster": "https://image.tmdb.org/t/p/w500/9lXk8D5EnAcAKOeg7J4ZOsqVn2I.jpg",
+      "releaseInfo": "1984",
+      "description": "A film set in a dystopian future in the year 1984."
+    },
+    {
+      "id": "tt0062622",
+      "type": "movie",
+      "name": "2001: A Space Odyssey",
+      "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69UkycT6NtCGoWkR.jpg",
+      "releaseInfo": "1968",
+      "description": "A film set in the year 2001."
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "poster": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ0lVrga.jpg",
+      "releaseInfo": "1982",
+      "description": "A film set in a dystopian future in the year 2019."
+    }
+  ]
+}

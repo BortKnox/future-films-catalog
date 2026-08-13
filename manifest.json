@@ -1,0 +1,26 @@
+{
+  "id": "com.yourname.futurefilms",
+  "version": "1.0.0",
+  "name": "Films Set in the Future",
+  "description": "A curated catalog of films set in the future, from Wikipedia's list.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "future_films",
+      "name": "Future Films",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
