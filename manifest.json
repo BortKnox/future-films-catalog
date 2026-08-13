@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "name": "Future Films",
   "description": "Curated catalog of films set in the future. Sorted by decade, popularity, and more.",
-  "logo": "https://chatgpt.com/backend-api/estuary/content?id=file_00000000b0b8820b8bfbd51f4d3089ca&ts=496295&p=fs&cid=1&sig=05d8b4cbc16299f9056a96dd007e54ad2476767c1a7c4528e40925e4a3bc84b0&v=0",
+  "logo": "https://chatgpt.com/s/m_6a7e4f8a2dcc8191a3581962e3fe9ee5",
   "resources": ["catalog"],
   "types": ["movie"],
   "catalogs": [
