@@ -579,6 +579,266 @@
       "description": "Set in 2032. An astronaut with amnesia must save Earth.",
       "year": 2026,
       "setting": "2032"
+    },
+    {
+      "id": "tt0070909",
+      "type": "movie",
+      "name": "Westworld",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1973",
+      "description": "Set in 1983. A futuristic theme park where robots go rogue.",
+      "year": 1973,
+      "setting": "1983"
+    },
+    {
+      "id": "tt0086200",
+      "type": "movie",
+      "name": "The Terminator",
+      "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RfCFudJd5T.jpg",
+      "releaseInfo": "1984",
+      "description": "Set in 2029. A cyborg assassin is sent back in time.",
+      "year": 1984,
+      "setting": "2029"
+    },
+    {
+      "id": "tt0070707",
+      "type": "movie",
+      "name": "Soylent Green",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1973",
+      "description": "Set in 2022. A detective uncovers a dark secret in a dystopian future.",
+      "year": 1973,
+      "setting": "2022"
+    },
+    {
+      "id": "tt0118928",
+      "type": "movie",
+      "name": "The Fifth Element",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1997",
+      "description": "Set in 2263. A cab driver must save the universe.",
+      "year": 1997,
+      "setting": "2263"
+    },
+    {
+      "id": "tt0120903",
+      "type": "movie",
+      "name": "The Postman",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1997",
+      "description": "Set in 2013. A wanderer becomes a symbol of hope in post-apocalyptic America.",
+      "year": 1997,
+      "setting": "2013"
+    },
+    {
+      "id": "tt0078892",
+      "type": "movie",
+      "name": "Alien",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1979",
+      "description": "Set in 2122. A crew encounters a deadly alien on a spaceship.",
+      "year": 1979,
+      "setting": "2122"
+    },
+    {
+      "id": "tt0103644",
+      "type": "movie",
+      "name": "Alien 3",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1992",
+      "description": "Set in 2179. Ripley crash-lands on a prison planet with a xenomorph.",
+      "year": 1992,
+      "setting": "2179"
+    },
+    {
+      "id": "tt0118583",
+      "type": "movie",
+      "name": "Alien Resurrection",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1997",
+      "description": "Set in 2379. Ripley is cloned to extract the xenomorph queen.",
+      "year": 1997,
+      "setting": "2379"
+    },
+    {
+      "id": "tt2316204",
+      "type": "movie",
+      "name": "Alien: Covenant",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2017",
+      "description": "Set in 2104. A colony ship discovers a deadly planet.",
+      "year": 2017,
+      "setting": "2104"
+    },
+    {
+      "id": "tt0800339",
+      "type": "movie",
+      "name": "The Book of Eli",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2010",
+      "description": "Set in 2043. A man protects a sacred book in a post-apocalyptic world.",
+      "year": 2010,
+      "setting": "2043"
+    },
+    {
+      "id": "tt0070285",
+      "type": "movie",
+      "name": "A Boy and His Dog",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1975",
+      "description": "Set in 2024. A boy and his telepathic dog navigate a wasteland.",
+      "year": 1975,
+      "setting": "2024"
+    },
+    {
+      "id": "tt0103874",
+      "type": "movie",
+      "name": "Freejack",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1992",
+      "description": "Set in 2009. A race car driver is pulled into the future.",
+      "year": 1992,
+      "setting": "2009"
+    },
+    {
+      "id": "tt0078839",
+      "type": "movie",
+      "name": "Mad Max",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1979",
+      "description": "Set in 1985. A cop seeks revenge against a biker gang.",
+      "year": 1979,
+      "setting": "1985"
+    },
+    {
+      "id": "tt0082694",
+      "type": "movie",
+      "name": "Mad Max 2: The Road Warrior",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1981",
+      "description": "Set in 1990. Max helps a community defend its oil supply.",
+      "year": 1981,
+      "setting": "1990"
+    },
+    {
+      "id": "tt0090442",
+      "type": "movie",
+      "name": "Brazil",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1985",
+      "description": "Set in unspecified future. A bureaucrat's life unravels.",
+      "year": 1985,
+      "setting": "Unspecified Future"
+    },
+    {
+      "id": "tt0139287",
+      "type": "movie",
+      "name": "The Thirteenth Floor",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1999",
+      "description": "Set in 2024. A man discovers his reality is a simulation.",
+      "year": 1999,
+      "setting": "2024"
+    },
+    {
+      "id": "tt0066769",
+      "type": "movie",
+      "name": "The Omega Man",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1971",
+      "description": "Set in 1977. A survivor of a plague fights mutants.",
+      "year": 1971,
+      "setting": "1977"
+    },
+    {
+      "id": "tt0095734",
+      "type": "movie",
+      "name": "Akira",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1988",
+      "description": "Set in 2019. Neo-Tokyo in chaos after a biker gang incident.",
+      "year": 1988,
+      "setting": "2019"
+    },
+    {
+      "id": "tt0103074",
+      "type": "movie",
+      "name": "Judge Dredd",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1995",
+      "description": "Set in 2139. A judge in a dystopian city must clear his name.",
+      "year": 1995,
+      "setting": "2139"
+    },
+    {
+      "id": "tt0893537",
+      "type": "movie",
+      "name": "Dredd",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2012",
+      "description": "Set in 2080. A judge and trainee fight through a mega-block.",
+      "year": 2012,
+      "setting": "2080"
+    },
+    {
+      "id": "tt0120201",
+      "type": "movie",
+      "name": "Starship Troopers",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1997",
+      "description": "Set in 2197. A soldier fights giant alien bugs.",
+      "year": 1997,
+      "setting": "2197"
+    },
+    {
+      "id": "tt0145660",
+      "type": "movie",
+      "name": "Soldier",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1998",
+      "description": "Set in 2013–2036. A genetically engineered soldier is left for dead.",
+      "year": 1998,
+      "setting": "2013-2036"
+    },
+    {
+      "id": "tt0111797",
+      "type": "movie",
+      "name": "The Crow",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "1994",
+      "description": "Set in unspecified future. A man resurrects to avenge his murder.",
+      "year": 1994,
+      "setting": "Unspecified Future"
+    },
+    {
+      "id": "tt0181852",
+      "type": "movie",
+      "name": "The 6th Day",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2000",
+      "description": "Set in 2015. A man discovers he's been cloned.",
+      "year": 2000,
+      "setting": "2015"
+    },
+    {
+      "id": "tt0241592",
+      "type": "movie",
+      "name": "The One",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2001",
+      "description": "Set in unspecified future. A multiverse cop hunts his own variants.",
+      "year": 2001,
+      "setting": "Unspecified Future"
+    },
+    {
+      "id": "tt0314331",
+      "type": "movie",
+      "name": "The Matrix Resurrections",
+      "poster": "https://image.tmdb.org/t/p/w500/5lC1L5GQc7L6rXqB8gN5n0a9Ql.jpg",
+      "releaseInfo": "2021",
+      "description": "Set c. 2274. Neo returns in a reimagined Matrix.",
+      "year": 2021,
+      "setting": "2274"
     }
   ]
 }
