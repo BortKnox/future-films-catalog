@@ -1,22 +1,51 @@
 {
-  "id": "com.yourname.futurefilms",
-  "version": "1.0.0",
-  "name": "Films Set in the Future",
-  "description": "A curated catalog of films set in the future, from Wikipedia's list.",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png",
+  "id": "com.bortknox.futurefilms",
+  "version": "2.0.0",
+  "name": "Future Films",
+  "description": "Curated catalog of films set in the future. Sorted by decade, popularity, and more.",
+  "logo": "https://i.imgur.com/your-logo-here.png",
   "resources": ["catalog"],
   "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "future_films",
-      "name": "Future Films",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "id": "future_all",
+      "name": "🚀 All Future Films"
+    },
+    {
+      "type": "movie",
+      "id": "future_popular",
+      "name": "⭐ Most Popular"
+    },
+    {
+      "type": "movie",
+      "id": "future_classic",
+      "name": "📽️ Classic (Pre-2000)"
+    },
+    {
+      "type": "movie",
+      "id": "future_recent",
+      "name": "🆕 Recent (2020+)"
+    },
+    {
+      "type": "movie",
+      "id": "future_2000s",
+      "name": "2000s"
+    },
+    {
+      "type": "movie",
+      "id": "future_2010s",
+      "name": "2010s"
+    },
+    {
+      "type": "movie",
+      "id": "future_2020s",
+      "name": "2020s"
+    },
+    {
+      "type": "movie",
+      "id": "future_2030s",
+      "name": "2030s+"
     }
   ],
   "behaviorHints": {
