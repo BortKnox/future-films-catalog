@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "name": "Future Films",
   "description": "Curated catalog of films set in the future. Sorted by decade, popularity, and more.",
-  "logo": "https://i.imgur.com/your-logo-here.png",
+  "logo": "https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019c47b2-e962-76b2-a05e-b51ada8d1306/1786661397422-019ffd50-e7c7-71eb-adc3-f63a843562df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260813%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260813T224957Z&X-Amz-Expires=3600&X-Amz-Signature=ee240aab373034f8395bfe626d8acea8192efaaad40daf180a9640b72fc8722e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
   "resources": ["catalog"],
   "types": ["movie"],
   "catalogs": [
